@@ -12,10 +12,10 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/abhi123-rgb/four_card_feature_section]
+- Live Site URL: [Add live site URL here]
 
-## My process
+
 
 ### Built with
 
